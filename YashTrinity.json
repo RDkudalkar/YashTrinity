@@ -3,26 +3,32 @@
 		{
 			"RoomNo": "401",
 			"OwnerName": "Ratnadeep Vijay Kudalkar",
-			"OwnerContacet": "9673224177",
-			"OnRent" : false,
+			"OwnerContact": "9673224177",
+			"OnRent" : false
 		},
 		{
 			"RoomNo": "402",
 			"OwnerName": "Supriya Kuyeskar",
-			"OwnerContacet": "7506080061",
-			"OnRent" : true,
+			"OwnerContact": "7506080061",
+			"OnRent" : true
 		},
 		{
 			"RoomNo": "101",
 			"OwnerName": "Mr. Kolambkar",
-			"OwnerContacet": "9892905987",
-			"OnRent" : false,
+			"OwnerContact": "9892905987",
+			"OnRent" : false
 		},
 		{
 			"RoomNo": "103",
 			"OwnerName": "Mr. Badrike",
-			"OwnerContacet": "9665235298",
-			"OnRent" : false,
+			"OwnerContact": "9665235298",
+			"OnRent" : false
+		}
+	]
+}
+]
+}
+	"OnRent" : false,
 		}
 	]
 }
